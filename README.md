@@ -12,6 +12,11 @@ Background
 网上大部分的psm程序都是基于R语言或者其他语言编写的，对于使用python进行实验研究的用户来说是个很头疼的问题，所以开发这段代码是为了方便项目实验者，让实验程序编写工作更轻松。
 
 
+
+
+
+
+
 # PSM (propensity match)
 Based on the python environment, it can be used to complete propensity matching experiments, including data input, model modeling, model calculation, and result display.
 
