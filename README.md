@@ -18,5 +18,6 @@ Feature(English)
 
 Background
 =========================
-网上大部分的psm程序都是基于R语言或者其他语言编写的，对于使用python进行实验研究的用户来说是个很头疼的问题，所以开发这段代码是为了方便实验者，也为了让实验研究工作更轻松。
+网上大部分的psm程序都是基于R语言或者其他语言编写的，对于使用python进行实验研究的用户来说是个很头疼的问题，所以开发这段代码是为了方便项目实验者，让实验程序编写工作更轻松。
+
 Most of the psm programs on the Internet are written based on R language or other languages, which is a headache for users who use python for experimental research, so this code is developed for the convenience of experimenters and to make experimental research work easier.
