@@ -1,5 +1,4 @@
 PSM (propensity match)
-=========================
 
 Based on the python environment, it can be used to complete propensity matching experiments, including data input, model modeling, model calculation, and result display.
 
